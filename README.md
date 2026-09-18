@@ -1,5 +1,5 @@
 # Cloudfirepages
-不是。GitHub Pages 分两种，数量限制不同：
+GitHub Pages 分两种，数量限制不同：
 
 **1. 用户 / 组织站点（User/Organization Site）—— 每个账号只能 1 个**
 
